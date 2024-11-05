@@ -1,0 +1,13 @@
+Setup new Window device @Transmax
+
+DEVICE FUNDAMENTAL:
+1. Change admin user password
+2. Install network certificate
+
+SOFTWARE:
+1. VSCode
+2. DBeaver
+3. Git
+4. Github Desktop
+5. Oh-my-Posh & Shell setup [https://ohmyposh.dev/docs/]
+6. 
